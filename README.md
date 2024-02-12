@@ -1,4 +1,3 @@
-
 ---
 title: ManageDiabetesThroughDiet
 emoji: 📊
@@ -10,9 +9,6 @@ app_file: app.py
 pinned: false
 license: mit
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
 
 **Food-Glycemic-Index-Checker.ipynb**
 
@@ -44,4 +40,5 @@ This project helps people with diabetes make informed decisions about their food
 4. Upload an image of the food you want to eat and click "Run".
 
 
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
