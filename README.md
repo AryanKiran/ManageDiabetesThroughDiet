@@ -1,4 +1,16 @@
 
+---
+title: ManageDiabetesThroughDiet
+emoji: 📊
+colorFrom: green
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.18.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 
 **Food-Glycemic-Index-Checker.ipynb**
 
@@ -29,16 +41,6 @@ This project helps people with diabetes make informed decisions about their food
 3. Run the Jupyter Notebook file `Food-Glycemic-Index-Checker.ipynb`.
 4. Upload an image of the food you want to eat and click "Run".
 
----
-title: ManageDiabetesThroughDiet
-emoji: 📊
-colorFrom: green
-colorTo: indigo
-sdk: gradio
-sdk_version: 4.18.0
-app_file: app.py
-pinned: false
-license: mit
----
+
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
